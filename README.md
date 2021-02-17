@@ -12,7 +12,7 @@ My project is on the analysis of third-generation sequencing on the Huntingtin g
 |DateStart| DateEnd| Title | University / Institution |
 |---------|--------| ---------- | ---------- |
 | 2020/11/01 | Ongoing | PhD Student | University Federico II - Naples (unina) |
-| 2020/05/01	| Ongoing | Junior Research Fellow	|	University of Milan (unimi) |
+| 2020/05/01	| Ongoing | Junior Research Fellow	|	University of Milano Statale (unimi) |
 | 2019/12/01 | 2020/01/31 | Trainee  | National Research Council - Naples |
 | 2019/04/01 | 2020/03/31 | Master Thesis | National Research Council - Naples |
 
