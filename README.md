@@ -2,10 +2,9 @@
 
 ## Brief Introduction
 
-I received a bachelor's degree in Molecular Biology and a master's degree in Biology at the University of Napoli Federico II (Italy), my past research was based on the analysis of embryonic whole-genome sequences from recurrent miscarriages in humans. My interest is to investigate the enrichment of deleterious consequences in our cases compared to a control population.
+I received a bachelor’s degree in Molecular Biology and a master’s degree in Biology at the University of Napoli Federico II (Italy), my past research was based on the analysis of embryonic whole-genome sequences from recurrent miscarriages in humans. My interest is to investigate the enrichment of deleterious consequences in our cases compared to a control population.
 
-Currently, I am visiting at the Institue of Genetics and Biophysics of the Italian National Research Council in Naples and I am a Junior Research Fellow for University of Milano Statale ( UNIMI )
-My project is on the analysis of third-generation sequencing on the Huntingtin gene.
+Currently, I am a PhD student and visiting at the Institue of Genetics and Biophysics of the Italian National Research Council in Naples. I am also a Junior Research Fellow for University of Milano Statale ( UNIMI ) in the Laboratory of Elena Cattaneo and my contribution is to set up a pipeline to count the number of repeats in the Huntington’s gene.
 
 ## Positions
 
