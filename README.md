@@ -1,4 +1,4 @@
--# Curriculum Vitae Gianluca Damaggio
+# Curriculum Vitae Gianluca Damaggio
 
 ## Brief Introduction
 
