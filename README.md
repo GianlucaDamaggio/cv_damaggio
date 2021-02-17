@@ -16,17 +16,7 @@ My project is on the analysis of third-generation sequencing on the Huntingtin g
 | 20191201 | 20200131 | Trainee  | National Research Council - Naples |
 | 20190401 | 20200331 | Master Thesis | National Research Council - Naples |
 
-
-## Conferences, courses, presentations and certificates
-
-|DateStart| DateEnd| Conference(Abstract-Paper) |Title |  Material |
-|---------|--------| ---------- |---------- |--------|
-|20201218 | 20201218 | ConfIGB-CNR | Genomics to fight the emerging COVID19 pandemic| [Abstract](abs/Damaggio20ConfDipCNR_ENG.md), [Presentation](https://docs.google.com/presentation/d/1LKwtL63WdeaU2lSAjHZcOJ2Bhr6i5KA4-vtxHuCeXyE/edit#slide=id.gb1b49a806f_0_255)
-|20201124 | 20201124 | [CittàdellaScienza-FuturoRemoto](https://www.futuroremoto2020.it/) | Leggere il genoma del Sars-CoV-2 | [Certificate](cert/FR_Attestato.pdf), [Presentation](https://docs.google.com/presentation/d/13An-KjjxEKIOb6kpvwyJZ557A03Y6uIX3LRrwPf_6-0/edit?usp=sharing)
-
-|Date| Papers |Title |  DOI |
-|--------- |---------- |---------- |--------|
-|/ | / | / | / |
+## Courses Attendance
 
 |DateStart| DateEnd| Course |Title |  Material |
 |---------|--------| ---------- |---------- |--------|
@@ -40,3 +30,16 @@ My project is on the analysis of third-generation sequencing on the Huntingtin g
 |20190604 | 20190605 | Course | Crash Course on Computational Network Analysis | [Certificate](cert/network_analysis_ICAR.pdf)|
 |20190330 | 20190406 | Course | Population genomics: Background, tools and programming | [Certificate](cert/EMBO_popgen.pdf)|
 |20190211 | 20190212 | Course | Linux Shell, Git and Python | [Certificate](cert/SC_certificate-attendance_Naples.pdf)|
+
+## Conferences
+
+|DateStart| DateEnd| Conference(Abstract-Paper) |Title |  Material |
+|---------|--------| ---------- |---------- |--------|
+|20201218 | 20201218 | ConfIGB-CNR | Genomics to fight the emerging COVID19 pandemic| [Abstract](abs/Damaggio20ConfDipCNR_ENG.md), [Presentation](https://docs.google.com/presentation/d/1LKwtL63WdeaU2lSAjHZcOJ2Bhr6i5KA4-vtxHuCeXyE/edit#slide=id.gb1b49a806f_0_255)
+|20201124 | 20201124 | [CittàdellaScienza-FuturoRemoto](https://www.futuroremoto2020.it/) | Leggere il genoma del Sars-CoV-2 | [Certificate](cert/FR_Attestato.pdf), [Presentation](https://docs.google.com/presentation/d/13An-KjjxEKIOb6kpvwyJZ557A03Y6uIX3LRrwPf_6-0/edit?usp=sharing)
+
+## Publications
+
+|Date| Papers |Title |  DOI |
+|--------- |---------- |---------- |--------|
+|/ | / | / | / |
