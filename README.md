@@ -11,7 +11,7 @@ Currently, I am a PhD student and visiting at the Institue of Genetics and Bioph
 |DateStart| DateEnd| Title | University / Institution |
 |---------|--------| ---------- | ---------- |
 | 2020/11/01 | Ongoing | PhD Student | University Federico II - Naples (unina) |
-| 2020/05/01	| Ongoing | Junior Research Fellow	|	University of Milano Statale (unimi) |
+| 2020/05/01 | Ongoing | Junior Research Fellow	| University of Milano Statale (unimi) |
 | 2019/12/01 | 2020/01/31 | Trainee  | National Research Council - Naples |
 | 2019/04/01 | 2020/03/31 | Master Thesis | National Research Council - Naples |
 
@@ -19,10 +19,11 @@ Currently, I am a PhD student and visiting at the Institue of Genetics and Bioph
 
 |DateStart| DateEnd| Course |Title |  Material |
 |---------|--------| ---------- |---------- |--------|
-|2021/03/16 | 2021/03/25 | Course | Helper at Online EMBO Course in Population Genomics | [Certificate](cert/embo2021-damaggio.pdf)| 
+|2021/03/16 | 2021/03/25 | Helper | Online EMBO Course in Population Genomics | [Certificate](cert/embo2021-damaggio.pdf)| 
 |2020/12/09 | 2020/12/11 | Course | Advanced Work Safety | [Certificate](cert/advanced_workSafety.pdf)|
 |2020/12/07 | 2020/12/07 | Course | Basic Work Safety | [Certificate](cert/workSafety.pdf)|
-|2020/09/03| 2020/10/07| Course-Teacher-Helper | Ciclo di lezioni di introduzione alla Genomica e Proteomica per biologi sperimentali | [Certificate](cert/OBI_genomics-proteomics.pdf) |
+|2020/11/27 | 2020/11/28 | Meeting |  MEETmeTONIGHT 2020 | [Certificate](cert/MeetAttendanceDamaggio.pdf)|
+|2020/09/03 | 2020/10/07| Course-Teacher-Helper | Ciclo di lezioni di introduzione alla Genomica e Proteomica per biologi sperimentali | [Certificate](cert/OBI_genomics-proteomics.pdf) |
 |2020/07/28 | 2020/07/28 | Course | COVID19 Work Safety | [Certificate](cert/certificate_aifos_covid.pdf)|
 |2020/07/13 | 2020/07/13 | Course | Software Carpentry instructor training program | [Certificate](cert/SC_trainer.pdf)|
 |2019/11/14 | 2019/11/14 | Course | Analysis of scRNA-seq using R | [Certificate](cert/Certificate-NETTAB-BBCC2019-tutorial.pdf) |
