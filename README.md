@@ -19,6 +19,7 @@ Currently, I am a PhD student and visiting at the Institue of Genetics and Bioph
 
 |DateStart| DateEnd| Course |Title |  Material |
 |---------|--------| ---------- |---------- |--------|
+|2021/03/16 | 2021/03/25 | Course | Helper at Online EMBO Course in Population Genomics | [Certificate](cert/embo2021-damaggio.pdf)| 
 |2020/12/09 | 2020/12/11 | Course | Advanced Work Safety | [Certificate](cert/advanced_workSafety.pdf)|
 |2020/12/07 | 2020/12/07 | Course | Basic Work Safety | [Certificate](cert/workSafety.pdf)|
 |2020/09/03| 2020/10/07| Course-Teacher-Helper | Ciclo di lezioni di introduzione alla Genomica e Proteomica per biologi sperimentali | [Certificate](cert/OBI_genomics-proteomics.pdf) |
