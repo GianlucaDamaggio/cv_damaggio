@@ -15,10 +15,11 @@ Currently, I am a PhD student and visiting at the Institue of Genetics and Bioph
 | 2019/12/01 | 2020/01/31 | Trainee  | National Research Council - Naples |
 | 2019/04/01 | 2020/03/31 | Master Thesis | National Research Council - Naples |
 
-## Courses Attendance
+## Courses & Conference Attendance
 
 |DateStart| DateEnd| Course |Title |  Material |
 |---------|--------| ---------- |---------- |--------|
+|2021/12/09 | 2021/12/10 | Conference | Pangenomics Bio Hacking 2021 (PGBH2021) conference | [Certificate](cert/pgbh2021-certificate-Damaggio-Gianluca.pdf) |
 |2021/09/09 | 2021/09/17 | Course-Organiser-Teacher | Laboratorio Software Carpentry on Shell, Git, Python | [Certificate](cert/certificate-organiser_GDamaggio.pdf) |
 |2021/03/16 | 2021/03/25 | Helper | Online EMBO Course in Population Genomics | [Certificate](cert/embo2021-damaggio.pdf)| 
 |2020/12/09 | 2020/12/11 | Course | Advanced Work Safety | [Certificate](cert/advanced_workSafety.pdf)|
