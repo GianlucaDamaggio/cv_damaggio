@@ -19,6 +19,7 @@ Currently, I am a PhD student and visiting at the Institue of Genetics and Bioph
 
 |DateStart| DateEnd| Course |Title |  Material |
 |---------|--------| ---------- |---------- |--------|
+|2022/03/22 | 2022/03/30 | Helper | Online EMBO Course in Population Genomics | [Certificate](cert/CERTIFICATE_DAMAGGIO_2022.pdf)| 
 |2021/12/09 | 2021/12/10 | Conference | Pangenomics Bio Hacking 2021 (PGBH2021) conference | [Certificate](cert/pgbh2021-certificate-Damaggio-Gianluca.pdf) |
 |2021/09/09 | 2021/09/17 | Course-Organiser-Teacher | Laboratorio Software Carpentry on Shell, Git, Python | [Certificate](cert/certificate-organiser_GDamaggio.pdf) |
 |2021/03/16 | 2021/03/25 | Helper | Online EMBO Course in Population Genomics | [Certificate](cert/embo2021-damaggio.pdf)| 
