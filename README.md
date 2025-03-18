@@ -2,16 +2,20 @@
 
 ## Brief Introduction
 
-I received a bachelor’s degree in Molecular Biology and a master’s degree in Biology at the University of Napoli Federico II (Italy), my past research was based on the analysis of embryonic whole-genome sequences from recurrent miscarriages in humans. My interest is to investigate the enrichment of deleterious consequences in our cases compared to a control population.
+I have completed my Ph.D. in Biology at the University of Napoli Federico II and obtained a master’s degree in Molecular Biology from the same university.
 
-Currently, I am a PhD student and visiting at the Institue of Genetics and Biophysics of the Italian National Research Council in Naples. I am also a Junior Research Fellow for University of Milano Statale ( UNIMI ) in the Laboratory of Elena Cattaneo and my contribution is to set up a pipeline to count the number of CAG repeats in the Huntington’s gene.
+My Ph.D. project, HD-DittoGraph - a digital human Embryonic Stem Cell platform for Hungtinton’s repeats, aims to develop the capability to accurately detect perturbations in short tandem repeats of the Huntington’s gene within proliferative cells, utilizing third-generation sequencing data. Throughout my Ph.D., I have also gained expertise in analyzing data from single-cell RNA-seq and ATAC-seq. 
+
+Currently, a Postdoctoral Researcher at Lodato Lab studying the brain development studying the PWS in brain organoids derived from iPSCs
 
 ## Positions
 
 |DateStart| DateEnd| Title | University / Institution |
 |---------|--------| ---------- | ---------- |
-| 2020/11/01 | Ongoing | PhD Student | University Federico II - Naples (unina) |
-| 2020/05/01 | Ongoing | Junior Research Fellow	| University of Milano Statale (unimi) |
+| 2023/07/16 | ongoing | Postdoc | Developmental Neurobiology lab, Humanitas University, Milan (hunimed) |
+| 2023/10/01 | 2024/07/15 | Postdoc | University of Milano Statale (unimi) |
+| 2020/11/01 | 2023/10/01 | PhD Student | University Federico II - Naples (unina) |
+| 2020/05/01 | 2023/10/01 | Junior Research Fellow	| University of Milano Statale (unimi) |
 | 2019/12/01 | 2020/01/31 | Trainee  | National Research Council - Naples |
 | 2019/04/01 | 2020/03/31 | Master Thesis | National Research Council - Naples |
 
@@ -19,6 +23,7 @@ Currently, I am a PhD student and visiting at the Institue of Genetics and Bioph
 
 |DateStart| DateEnd| Course |Title |  Material |
 |---------|--------| ---------- |---------- |--------|
+|2024/11/18 | 2024/11/22 | Course | BrainOmics 2.0 Computational approaches to single-cell multi-omics in neuroscience | [Certificate](cert/Damaggio_Certificates_Brainomics.pdf)| 
 |2022/03/22 | 2022/03/30 | Helper | Online EMBO Course in Population Genomics | [Certificate](cert/CERTIFICATE_DAMAGGIO_2022.pdf)| 
 |2021/12/09 | 2021/12/10 | Conference | Pangenomics Bio Hacking 2021 (PGBH2021) conference | [Certificate](cert/pgbh2021-certificate-Damaggio-Gianluca.pdf) |
 |2021/09/09 | 2021/09/17 | Course-Organiser-Teacher | Laboratorio Software Carpentry on Shell, Git, Python | [Certificate](cert/certificate-organiser_GDamaggio.pdf) |
@@ -50,4 +55,4 @@ Currently, I am a PhD student and visiting at the Institue of Genetics and Bioph
 
 |Date| Papers |Title |  DOI |
 |--------- |---------- |---------- |--------|
-|/ | / | / | / |
+https://scholar.google.com/citations?user=23D5l4cAAAAJ&hl=en 
