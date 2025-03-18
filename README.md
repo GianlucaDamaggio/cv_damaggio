@@ -44,6 +44,7 @@ Currently, a Postdoctoral Researcher at Lodato Lab studying the brain developmen
 
 |DateStart| DateEnd| Conference(Abstract-Paper) |Title |  Material |
 |---------|--------| ---------- |---------- |--------|
+|2024/02/26 | 2023/02/29 | CHDI - Palm Springs (USA-LA)| Exploring the early human neurodevelopmental aspect of huntington’s disease: Insights from single-cell rna sequencing| [Poster](to be added), [Abstract](https://drive.google.com/file/d/1WdoMWVj19jNCXg3bIM04Z2OTowWkrVii/view)
 |2023/09/13 | 2023/09/16 | SINS - Torino | Identification of the cell type-specific neurodevelopmental component of Huntington’s disease in the cortex using single-cell RNA sequencing analysis | [Poster](https://drive.google.com/drive/u/0/folders/1XecR4U40z44UGmkh_6XYTidI_3cHRXce), [Abstract](https://docs.google.com/document/d/1ICoIWAVpylGqjCZxBzF70tQhlmJUvtH7/edit?usp=drive_web&ouid=111396140728182502400&rtpof=true)
 |2023/09/13 | 2023/09/16 | SINS - Torino | Single-cell RNA sequencing analysis to study Huntington’s Disease in the developing human striatum | [Poster](https://drive.google.com/drive/u/0/folders/1XecR4U40z44UGmkh_6XYTidI_3cHRXce), [Abstract](https://docs.google.com/document/d/1HVKeM_iGIbyiNVJ4aFoNLzGKndk_2iM2/edit)
 |2022/06/27 | 2022/06/29 | BITS - Verona | Detection of endogenous CAG instability through Nanopore sequencing of the Huntingtin Exon1 | [Poster](https://docs.google.com/presentation/d/1WlqAobUYj4KKTUiVMJCZvK3T592uXpU0/edit?usp=sharing&ouid=111396140728182502400&rtpof=true&sd=true) , [Abstract](https://docs.google.com/document/d/1uGCSlRuBZGJvO775Z14ciNnE462yU48lubXEl2OxyKU/edit?usp=sharing)
@@ -56,3 +57,5 @@ Currently, a Postdoctoral Researcher at Lodato Lab studying the brain developmen
 |Date| Papers |Title |  DOI |
 |--------- |---------- |---------- |--------|
 https://scholar.google.com/citations?user=23D5l4cAAAAJ&hl=en 
+
+
